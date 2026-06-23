@@ -35,7 +35,9 @@ Put together, the data tells a story that adds up to **$1.2M in total sales, 8,5
 blinkit-dashboard/
 
 ├── README.md
+
 ├── Blinkit_Dashboard.xlsx       # Main Excel file (raw data + dashboard)
+
 └── Dashboard img.png            # Dashboard preview image
 
 ## 🚀 How to Explore It Yourself
